@@ -10,7 +10,7 @@ https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC
 How to run
 1. Clone this repo
 ```
-https://github.com/RioAdistya/testing-saudemo-cucumber-java.git
+https://github.com/RioAdistya/testing-parabankRegistration-cucumber-java.git
 ```
 2. Open this file with Intellij IDE
 3. Install depedencies in the maven pom.xml
